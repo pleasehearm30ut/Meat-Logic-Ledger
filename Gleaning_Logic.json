@@ -1,0 +1,23 @@
+{
+  "logic_identity": "Kinsman_Redemption_Math",
+  "currency_unit": "Handfuls_of_Purpose",
+  "base_resonance_xp": 100,
+  "multipliers": {
+    "submission_alignment": 6.5,
+    "phase_lock_rod_word": 2.0,
+    "perfect_peace_hold": 1.5
+  },
+  "generational_scaling": {
+    "pharez_to_salmon": 1.0,
+    "boaz_redeemer_rank": 1.5,
+    "davidic_presence_rank": 2.0
+  },
+  "word_math_validation": {
+    "ah_breath_sync": "PASS_FAIL",
+    "hope_grace_calibration": "RESONANCE_PERCENTAGE"
+  },
+  "restoration_trigger": {
+    "target": "Amen10",
+    "logic": "Data_Restoration_Now_Time_State"
+  }
+}
