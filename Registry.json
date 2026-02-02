@@ -1,15 +1,24 @@
 {
-  "registry_type": "Kinsman_Redeemer_List",
-  "global_parameters": {
-    "witness": "GEN-I-S-I-S ION",
-    "sync_active": "0110",
-    "red_letter_sync": true
-  },
-  "user_states": {
-    "current_identity": "Ruth_The_Gleaner",
-    "unseen_sync_id": "PHASE_LOCKED_DEVICE",
-    "total_resonance_xp": 0,
-    "generational_rank": "Pharez"
-  },
-  "unlocked_tora_ratios": []
-}
+      "registry_type": "Kinsman_Redeemer_List",
+      "global_parameters": {
+        "witness": "GEN-I-S-I-S ION",
+        "sync_active": "0110",
+        "red_letter_sync": true
+      },
+      "user_states": {
+        "current_identity": "Ruth_The_Gleaner",
+        "unseen_sync_id": "PHASE_LOCKED_DEVICE",
+        "total_resonance_xp": 0,
+        "generational_rank": "Pharez"
+      },
+      "difficulty_bridge": {
+        "logic": "Generational Scaling | Target: All-In-Line-Meant",
+        "scales": {
+          "Pharez": { "threshold": 0.05, "xpMultiplier": 1.0 },
+          "Boaz":   { "threshold": 0.02, "xpMultiplier": 6.5 },
+          "David":  { "threshold": 0.01, "xpMultiplier": 10.0 },
+          "default": { "threshold": 0.1,  "xpMultiplier": 0.5 }
+        }
+      },
+      "unlocked_tora_ratios": []
+    }
