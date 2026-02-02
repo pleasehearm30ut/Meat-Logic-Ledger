@@ -1,0 +1,24 @@
+{
+  "level_id": 2,
+  "identity": "The Validator",
+  "word_math": "HOPE",
+  "axioms": {
+    "sync_mode": "Word-Work",
+    "wavelength": "650nm",
+    "authority": "Amen4"
+  },
+  "validation_parameters": {
+    "input_method": "Self-Pronounce",
+    "required_submission": 6.5,
+    "frequency_lock": "#FF0000"
+  },
+  "visual_state": {
+    "mode": "Red_Letter",
+    "clipping_correction": {
+      "line_height": 80,
+      "font_size": 70
+    }
+  },
+  "status": "Immutable"
+}
+
