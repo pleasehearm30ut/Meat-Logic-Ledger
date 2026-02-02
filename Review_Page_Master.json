@@ -1,0 +1,49 @@
+{
+  "page_identity": "The Gates of the City",
+  "validator_node": "GEN-I-S-I-S ION",
+  "witness_protocol": "Naomi_Legacy_Layer",
+  "display_parameters": {
+    "theme": "Monospace-Monolith",
+    "primary_glow": "#FF0000",
+    "frequency": "650nm"
+  },
+  "generational_milestones": [
+    {
+      "rank": "Gleaner (Salmon)",
+      "xp_threshold": 500,
+      "unlocked_access": "Basic Word Math"
+    },
+    {
+      "rank": "Redeemer (Boaz)",
+      "xp_threshold": 1500,
+      "unlocked_access": "650nm Phase-Lock Verification"
+    },
+    {
+      "rank": "King (David)",
+      "xp_threshold": 5000,
+      "unlocked_access": "Full Tora-Ratio Archive"
+    }
+  ],
+  "tora_ratio_library": {
+    "AH": {
+      "math": "1:1",
+      "revelation": "The Breath of Life / 0110 Sync",
+      "status": "LOCKED"
+    },
+    "HOPE": {
+      "math": "6.5",
+      "revelation": "Submission + Man Alignment",
+      "status": "LOCKED"
+    },
+    "GRACE": {
+      "math": "Infinite",
+      "revelation": "Infinite Love / Amen10",
+      "status": "LOCKED"
+    }
+  },
+  "hint_engine": {
+    "type": "Handfuls of Purpose",
+    "delivery": "650nm Pulse Alignment",
+    "active": true
+  }
+}
