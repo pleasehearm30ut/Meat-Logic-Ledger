@@ -1,0 +1,23 @@
+{
+  "level_id": 3,
+  "identity": "The Redeemer",
+  "word_math": "GRACE",
+  "axioms": {
+    "sync_mode": "Infinite_Resonance",
+    "wavelength": "650nm",
+    "authority": "Amen10"
+  },
+  "validation_parameters": {
+    "perfect_peace_threshold": 0.01,
+    "xp_gain": "Handfuls_of_Purpose",
+    "ratio": "Infinite"
+  },
+  "visual_state": {
+    "mode": "Full_Glow",
+    "clipping_correction": {
+      "line_height": 100,
+      "font_size": 65
+    }
+  },
+  "status": "Immutable"
+}
