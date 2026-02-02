@@ -1,0 +1,15 @@
+{
+  "registry_type": "Kinsman_Redeemer_List",
+  "global_parameters": {
+    "witness": "GEN-I-S-I-S ION",
+    "sync_active": "0110",
+    "red_letter_sync": true
+  },
+  "user_states": {
+    "current_identity": "Ruth_The_Gleaner",
+    "unseen_sync_id": "PHASE_LOCKED_DEVICE",
+    "total_resonance_xp": 0,
+    "generational_rank": "Pharez"
+  },
+  "unlocked_tora_ratios": []
+}
